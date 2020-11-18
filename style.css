@@ -1,0 +1,23 @@
+header{
+	background: #FF9F40;
+
+	width: 55%;
+	height: 50px;
+	border-radius: 10px;
+	border-bottom: 4px solid silver;
+	
+	margin: 0px 10px 5px 358px ;
+}
+.inline {
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+	margin: 9px 0px 0px 80px;
+	font-family: roboto;
+}
+.head{
+	padding: 5px 15px 20px 0px;
+	font-size: 1em;
+	display: inline-block;
+	
+}
